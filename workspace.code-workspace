@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\class_28\\project-C28-template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proj"
+	}
+}
